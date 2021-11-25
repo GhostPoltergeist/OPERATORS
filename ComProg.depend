@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637833593 source:c:\users\~zxz~\desktop\comprog\main.c
+	<stdio.h>
+	<windows.h>
+
+1637835437 source:c:\users\~zxz~\desktop\com prog\comprog\main.c
+	<stdio.h>
+	<windows.h>
+
